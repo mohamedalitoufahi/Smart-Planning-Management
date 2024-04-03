@@ -5,7 +5,7 @@ FR
 Projet : Logiciel de planification et d’optimisation de ressources
 Technologies: Python - Gurobi - Programmation graphique avec tkinter
 
-Description: C'est un logiciel de résolution de problèmes de plannification
+Description: C'est un logiciel de résolution de problèmes de planification
 et de gestion de resources déstinés à plusieurs types d'entreprises.
 Il puise de la puissance de la recherche oppérationnelle pour résoudre
 grâce à des modèles mathématiques des poblèmatiques curciales tel que:
